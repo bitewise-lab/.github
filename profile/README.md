@@ -1,5 +1,8 @@
 # [C242-PS105] Bitewise
 
+<div style="display: flex; align-items: center;">
+  <img src="./logo.png" alt="Logo">
+</div>
 <!--
 
 **Here are some ideas to get you started:**
